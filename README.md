@@ -15,7 +15,9 @@
    ### Page du projet
 ![Premiere page](https://github.com/user-attachments/assets/ba961ce8-6b84-4c16-8e04-2c794b6ed35b)
 
-  ### Information sur les marques et les appareils
+<br>
+
+  ### Information sur les marques et les appareils (Pour utilisation personnel pour les projets de machine learning)
   Cette page a été créé pour des observations personnelles concernant les marques des appareils et leurs utilisations en prenant en considération plus de données.
   <br>
 ![Capture d'écran 2024-08-30 171724](https://github.com/user-attachments/assets/e0f2e698-2892-47e0-ba45-0b2e42bc30dc)
